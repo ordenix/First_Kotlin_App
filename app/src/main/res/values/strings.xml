@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pierwsza aplikacja</string>
+    <string name="button1">Dalej</string>
+    <string name="text_hint">Wprowadź swoje imię</string>
+</resources>
