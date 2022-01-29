@@ -8,8 +8,8 @@
         tools:context=".Activity2">
     <TextView
             android:text="TextView"
-            android:layout_width="265dp"
-            android:layout_height="49dp" android:id="@+id/text_output"
+            android:layout_width="273dp"
+            android:layout_height="366dp" android:id="@+id/text_output"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintBottom_toBottomOf="parent"
