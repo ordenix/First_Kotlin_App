@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">Pierwsza aplikacja</string>
-    <string name="button1">Dalej</string>
+    <string name="app_name">Wyszukiwarka miejscowości</string>
+    <string name="button1">Szukaj</string>
     <string name="text_hint">Wprowadź kod pocztowy (xx-xxx)</string>
+    <string name="city">Miejscowość</string>
+    <string name="code">Kod</string>
+    <string name="community">Gmina</string>
+    <string name="district">Powiat</string>
+    <string name="voivodeship">Województwo</string>
+    <string name="title_response">Znalezione miasto</string>
+    <string name="back">Powrót</string>
 </resources>
